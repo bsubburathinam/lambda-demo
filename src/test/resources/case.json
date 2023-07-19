@@ -1,0 +1,13 @@
+{
+    "name": "Case 1",
+    "plans": [
+        {
+            "name": "Plan 1",
+            "status": "OPEN"
+        },
+        {
+            "name": "Plan 2",
+            "status": "CLOSED"
+        }
+    ]
+}
